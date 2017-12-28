@@ -6,10 +6,13 @@
 
 #set -x
 cat <<EOF
---------------------------------------------------------
-     PAYPAL VALIDATOR Private X-Mr.R4h1M
---------------------------------------------------------
- 
+            - VALIDATOR PayPal -
+           [+]ad.android@yahoo.com[+]
+     [+]www.facebook.com/my.profile.co.id[+]
+        
+===================================================
+   Email PayPal Validator By : X-Mr.R4h1M
+===================================================
 EOF
 
 usage() { 
