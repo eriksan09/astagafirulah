@@ -30,11 +30,12 @@ printf "$WHI           ####################    $GRN######\n"
 printf "$NC\n"
 cat <<EOF
              - VALIDATOR AppleID -
-          [+] ad.android@yahoo.com[+]
+           [+]ad.android@yahoo.com[+]
+      [+]www.facebook.com/my.profile.co.id[+]
         
----------------------------------------------------
-   Email AppleID Validator V3
----------------------------------------------------
+===================================================
+   Email AppleID Validator By : X-Mr.R4h1M
+===================================================
 
 EOF
 
