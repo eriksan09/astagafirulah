@@ -6,12 +6,12 @@
 
 #set -x
 cat <<EOF
-            - VALIDATOR PayPal -
+            - VALIDATOR AppleID -
            [+]ad.android@yahoo.com[+]
      [+]www.facebook.com/my.profile.co.id[+]
         
 ===================================================
-   Email PayPal Validator By : X-Mr.R4h1M
+   Email AppleID Validator By : X-Mr.R4h1M
 ===================================================
 EOF
 
