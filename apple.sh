@@ -1,42 +1,18 @@
 #!/bin/bash
-# Slackerc0de Family Present
-# Apple Valid Checker v3
-# 3 December 2K17
-# X-Mr.R4h1M.
+# Clown Hacktivism Team
+# AppleID Valid
+# 30a December
+# By X-Mr.R4h1M
 
-RED='\033[0;31m'
-CYAN='\033[0;36m'
-YELLOW='\033[1;33m'
-ORANGE='\033[0;33m' 
-PUR='\033[0;35m'
-GRN="\e[32m"
-WHI="\e[37m"
-NC='\033[0m'
-echo ""
-printf "$RED           ##########################   $GRN#\n"
-printf "$RED           ########################    $GRN##\n"
-printf "$RED           ####                       $GRN###\n"
-printf "$RED           ####                      $GRN####\n"
-printf "$RED           #######################   $GRN####\n"
-printf "$RED           #######################   $GRN####\n"
-printf "$RED                              ####   $GRN####\n"
-printf "$RED                              ####   $GRN####\n"
-printf "$WHI           ##########$RED     ########   $GRN####\n"
-printf "$WHI           ############$RED     ######   $GRN####\n"
-printf "$WHI           #####                     $GRN####\n"
-printf "$WHI           #####                     $GRN####\n"
-printf "$WHI           ##################    $GRN########\n"
-printf "$WHI           ####################    $GRN######\n"
-printf "$NC\n"
+#set -x
 cat <<EOF
-             - VALIDATOR AppleID -
+            - VALIDATOR PayPal -
            [+]ad.android@yahoo.com[+]
-      [+]www.facebook.com/my.profile.co.id[+]
+     [+]www.facebook.com/my.profile.co.id[+]
         
 ===================================================
-   Email AppleID Validator By : X-Mr.R4h1M
+   Email PayPal Validator By : X-Mr.R4h1M
 ===================================================
-
 EOF
 
 usage() { 
